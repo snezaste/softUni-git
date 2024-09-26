@@ -1,0 +1,1 @@
+U ovom folderu se nalaze projekti odradjeni za kurs Python Fundamentals.
